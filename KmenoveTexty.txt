@@ -1,0 +1,110 @@
+VSEOBECNE
+
+
+DOLEZITE ODKAZY
+
+[b]Kalkulátor vzdialenosti: [/b]
+[url]https://sk.twstats.com/sk59/index.php?page=distance_calc[/url]
+
+[b]Plánovač útoku: [/b]
+[url]https://sk.twstats.com/sk59/index.php?page=attack_planner[/url]
+
+[b]Vyznačenie si mapy: [/b]
+[url]https://sk.twstats.com/sk59/index.php?page=map[/url]
+
+[b]Všeobecný TW-stats tohto sveta: [/b]
+[url]https://sk.twstats.com/sk59/index.php[/url]
+
+Nižšie môžte pridávať linky ktoré sa Vám osvedčili pri hraní :grin:
+Pomôžte tak ostatným :wink:
+
+FUNCKCIE
+
+[table]
+[**][unit]snob[/unit][b] Zakladateľ [/b][unit]snob[/unit][/**]
+[*] [player]martin25[/player][/table]
+
+[table]
+[**][unit]knight[/unit][b] Vodca [/b][unit]knight[/unit][/**]
+[*] [player]Srndo11[/player][/table]
+
+[table]
+[**][unit]spy[/unit][b] Diplomat [/b][unit]spy[/unit][/**]
+[*] [player]Terezka[/player][/table]
+
+[table]
+[**][unit]archer[/unit][b] Náborák [/b][unit]archer[/unit][/**]
+[*] [player]Darkdevil1[/player][/table]
+
+[table]
+[**][unit]marcher[/unit][b] Rada kmeňa [/b][unit]marcher[/unit][/**]
+[*] [player]---[/player][/table]
+
+[table]
+[**][unit]sword[/unit][b] Správca fóra [/b][unit]sword[/unit][/**]
+[*] [player]---[/player][/table]
+                                                           
+PRAVIDLA
+[b]Tento kmeň nemá a nebude mať veľa pravidiel no bude sa dávať pozor na ich striktné dodržiavanie ! [/b]
+
+[i]1. Byť aktívny/a[/i]
+
+[i]2. Zápajať sa do fóra nebyť iba "viewer"[/i]
+
+[i]3. Novo prijatý člen nemá nárok na podporu alebo surovinovú pomoc po dobu [b]5 dní[/b]. Nikto sa nám sem nebude chodiť skrývať.[/i]
+
+[i]4. Nedržať armádu u seba v dedine, pomáhať ostatným. Raz pomôž ty druhý krát ti pomôže niekto iný. [/i]
+
+[i]5. Pri rôznych akciách si môže vedenie kmeňa vyžiadať zástuv v dovolenke pre kontrolu vývoju akcie prípadne samostatného hráča. [b]Nebudeme tu držať hráčov bez armády čo budujú iba dedinky. [/b][/i]
+
+[i]6. Nenadávať si na fóre, môže to viesť až vyhodeniu z kmeňa. Sme jeden "tím" tak majme k sebe úctu.[/i]
+
+[i]7. Rozhodnutie kmeňovej rady je posvätnné. Nebudeme trpieť žiadne. Prípadné nezhody riešte priamo s zakladateľom alebo vodcom kmeňa.[/i]
+
+INFORMACIE
+                                                           
+                                                           
+                                                           
+                                                           
+DEFF
+                                                           
+VZOR
+
+[size=12][b]Každá téma ktorá bude založená bez všeobecných infromácií a bb-kódov bude zmazaná!!![/b][/size]
+
+[i]Samozrejme ak ste na mobile a potrebujete rýchlu podporu bb kódy môže nahradiť slovami. Ale potom je očakávané to čo najskor zmeniť do bb kódov.[/i]
+
+[color=#ff0e0e][i]Všetko nadčiarov sú povinné atribúty žiadanie podpory. Čím viac toho pridáte tým je väčšia pravdepodobnosť dostania podpory v čo najkratšom čase.[/i][/color]
+
+[u][b]VZOR: [/b][/u]
+
+[b]Útočiaci hráč: [/b][player]martin25[/player]
+[b]Z dediny: [/b] [coord]563|449[/coord]
+[b]Na dedinu: [/b][coord]572|461[/coord]
+[b]Dopad útoku: [/b] [i]21:05:30[/i]
+
+[b]V dedine mám: [/b]
+[building]wall[/building] 20
+[unit]spear[/unit] 5000
+[unit]sword[/unit] 5000
+[unit]archer[/unit] 3000
+[unit]knight[/unit] 1 (+30% [unit]spear[/unit] | +30%[unit]sword[/unit])
+
+----------------------------------------------------------------
+[b]Poznámka: [/b]Útočí bez šlachtica (viete si tu vypočítať v doležítých odkazoch)
+[b]Oznámenie z predchádzajúceho útoku:[/b]
+
+[b]Podporujúci: aj neskorá podpora je žiadaná, samozrejme Vás chcem poprosiť aby ste si [color=#ff0e0e]časovali príchody podpôr![/color][/b]
+
+Poslané:
+4500[unit]spear[/unit]
+6000[unit]sword[/unit]
+[i]21:04:45[/i]
+
+8000[unit]heavy[/unit]
+[i]21:00:34[/i]
+
+                                                           
+                                                           OFF
+                                                           Zábava
+                                                           Kmeňová rada
