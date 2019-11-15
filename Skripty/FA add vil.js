@@ -1,7 +1,9 @@
 javascript:
     
     function containsWord(str, word) {
-      return str.match(new RegExp("\\b" + word + "\\b")) != null;
+      if(str.search(word) != -1)
+          return true;
+      return false;
     }
 
     url = window.location.href;
@@ -26,7 +28,8 @@ javascript:
             empty = true;
         }
 
-        if(containsWord(coords, coords_to_add)){
+        let coords_to_re = coords_to_add.replace("|", ".");
+        if(containsWord(coords, coords_to_re)){
             alert("Village is already in coords.");
         }
         else{

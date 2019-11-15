@@ -1,5 +1,5 @@
 javascript:
-    var units=[0,0,0,1,8,0,0,0];
+    var units=[0,0,0,1,10,0,0,0];
 
     function insertUnit(input, count){
         if(input.value != count){
