@@ -62,4 +62,5 @@ javascript:
         insertUnit(doc.forms[0].heavy,units[5]);
         insertUnit(doc.forms[0].ram,units[6]);
         insertUnit(doc.forms[0].catapult,units[7]);
+        doc.getElementById("target_attack").focus();
     }

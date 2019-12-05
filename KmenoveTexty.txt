@@ -55,11 +55,11 @@ PRAVIDLA
 
 [i]4. Nedržať armádu u seba v dedine, pomáhať ostatným. Raz pomôž ty druhý krát ti pomôže niekto iný. [/i]
 
-[i]5. Pri rôznych akciách si môže vedenie kmeňa vyžiadať zástuv v dovolenke pre kontrolu vývoju akcie prípadne samostatného hráča. [b]Nebudeme tu držať hráčov bez armády čo budujú iba dedinky. [/b][/i]
+[i]5. Pri rôznych akciách si môže vedenie kmeňa vyžiadať zástuv v dovolenke pre kontrolu vývoja akcie prípadne samotného hráča. [b]Nebudeme tu držať hráčov bez armády čo budujú iba dedinky. [/b][/i]
 
 [i]6. Nenadávať si na fóre, môže to viesť až vyhodeniu z kmeňa. Sme jeden "tím" tak majme k sebe úctu.[/i]
 
-[i]7. Rozhodnutie kmeňovej rady je posvätnné. Nebudeme trpieť žiadne. Prípadné nezhody riešte priamo s zakladateľom alebo vodcom kmeňa.[/i]
+[i]7. Neakceptácia rozhodnutia kmeňovej rady je trestaná vyhadzovom. Prípadné nezhody riešte priamo s zakladatelmi alebo vodcom kmeňa.[/i]
 
 INFORMACIE
                                                            
@@ -74,7 +74,7 @@ VZOR
 
 [i]Samozrejme ak ste na mobile a potrebujete rýchlu podporu bb kódy môže nahradiť slovami. Ale potom je očakávané to čo najskor zmeniť do bb kódov.[/i]
 
-[color=#ff0e0e][i]Všetko nadčiarov sú povinné atribúty žiadanie podpory. Čím viac toho pridáte tým je väčšia pravdepodobnosť dostania podpory v čo najkratšom čase.[/i][/color]
+[color=#ff0e0e][i]Všetko nadčiarov sú povinné atribúty pri žiadaní podpory. Čím viac toho pridáte tým je väčšia pravdepodobnosť dostania podpory v čo najkratšom čase.[/i][/color] 
 
 [u][b]VZOR: [/b][/u]
 
@@ -94,7 +94,7 @@ VZOR
 [b]Poznámka: [/b]Útočí bez šlachtica (viete si tu vypočítať v doležítých odkazoch)
 [b]Oznámenie z predchádzajúceho útoku:[/b]
 
-[b]Podporujúci: aj neskorá podpora je žiadaná, samozrejme Vás chcem poprosiť aby ste si [color=#ff0e0e]časovali príchody podpôr![/color][/b]
+[b]Podporujúci: aj malá podpora sa ráta, samozrejme Vás chceme poprosiť aby ste si [color=#ff0e0e]časovali príchody podpôr![/color][/b] (v neskorších fázach hry je dôležité) 
 
 Poslané:
 4500[unit]spear[/unit]
