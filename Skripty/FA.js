@@ -14,12 +14,12 @@ javascript:
     var doc=document;
     var now = new Date();
     var time = now.getTime();
-    time += 7200 * 1000;
+    time += 7*24*60*60*1000;
     now.setTime(time);
 
-    if(window.frames.length>0)
+/*    if(window.frames.length>0)
         doc=window.main.document;
-
+*/
     url=doc.URL;
     if(url.indexOf('screen=place')==-1)
         alert('This script needs to be run from the rally point');
@@ -45,10 +45,10 @@ javascript:
     if(index>=coords.length){
         index = 0;
         document.cookie ="farm="+index+";expires="+now.toGMTString();
-        alert('End of villages.');
+        alert('End of villages (' + coords.length + ').');
     }
     else{
-        if(coords[index] == '')
+        if(coords[index] == '' || coords[index] == ' ')
             while(coords[index] == '')
                 index = index + 1;
         doc.forms[0].input.value=coords[index];
