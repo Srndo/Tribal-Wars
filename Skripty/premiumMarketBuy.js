@@ -30,15 +30,15 @@ function check(){
 	clay = document.getElementById("premium_exchange_stock_stone").textContent;
 	iron = document.getElementById("premium_exchange_stock_iron").textContent;
 
-	not_printed = compare(wood, 500, not_printed, 9, wood_sound);
-	not_printed = compare(clay, 500, not_printed, 12, clay_sound);
-	not_printed = compare(iron, 500, not_printed, 15, iron_sound);
+	not_printed = compare(wood, 64, not_printed, 9, wood_sound);
+	not_printed = compare(clay, 64, not_printed, 12, clay_sound);
+	not_printed = compare(iron, 64, not_printed, 15, iron_sound);
 
 	var fader = document.getElementById("fader");
 	
 	if(fader != null)
 	{
-		document.getElementsByClassName("btn-confirm-yes")[0].addEventListener("keypress", function(e){
+		document.getElementsByClassName("btn-premium-exchange-buy")[0].addEventListener("keypress", function(e){
 		if (e.key === 'Enter')
 		{
 			not_printed = true;
@@ -46,7 +46,7 @@ function check(){
 	});
 	}
 
-    setTimeout(check, 100); // check again in a half second
+    setTimeout(check, 100); // check again in a 100ms
 }
 
 check();

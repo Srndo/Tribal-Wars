@@ -1,5 +1,5 @@
 javascript:
-    var units=[0,0,0,1,10,0,0,0];
+    var units=[0,0,0,0,3,0,0,0];
 
     function insertUnit(input, count){
         if(input.value != count){
@@ -7,9 +7,21 @@ javascript:
             
         }
         else{
-            input.value='';
+            //input.value='';
         }
     }
+
+/*
+    var waitForEl = function(selector, callback) {
+      if (jQuery(selector).prevObject.length) {
+        callback();
+      } else {
+        setTimeout(function() {
+          waitForEl(selector, callback);
+        }, 300);
+      }
+    };
+*/
 
     var doc=document;
     var now = new Date();
@@ -17,9 +29,6 @@ javascript:
     time += 7*24*60*60*1000;
     now.setTime(time);
 
-/*    if(window.frames.length>0)
-        doc=window.main.document;
-*/
     url=doc.URL;
     if(url.indexOf('screen=place')==-1)
         alert('This script needs to be run from the rally point');
@@ -62,5 +71,10 @@ javascript:
         insertUnit(doc.forms[0].heavy,units[5]);
         insertUnit(doc.forms[0].ram,units[6]);
         insertUnit(doc.forms[0].catapult,units[7]);
-        doc.getElementById("target_attack").focus();
+        doc.getElementById("target_attack").click();
+/*        waitForEl("troop_confirm_go", function() {
+            doc = document;
+            doc.getElementById("troop_confirm_go").click();
+        });
+ */
     }
